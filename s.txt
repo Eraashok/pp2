@@ -1,0 +1,13 @@
+^ басы
+$ соңы
+\b сөз табу
+| или
+[] ішіндегі элмттер range [0-9] [a-zA-Z] [0-9a-z]
+[^A] A жок элем
+\d any num
+\D any not num [^0-9]
+\w any letter num or _
+\W not any letter num or _
+\s probel
+\S ne probel
+
